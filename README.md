@@ -1,6 +1,6 @@
 # WebCamPhotoMaker
 
-<img src="Screenshots/vs.png" width="20%"/>
+[![Build Status](https://travis-ci.org/fiterV/WebCamPhotoMaker.svg?branch=master)](https://travis-ci.org/fiterV/WebCamPhotoMaker) <img src="Screenshots/vs.png" width="20%"/>
 
 
 ## How to run
